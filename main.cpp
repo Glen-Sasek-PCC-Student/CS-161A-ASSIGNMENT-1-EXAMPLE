@@ -10,6 +10,9 @@
 //     9  astyle -n -F main.cpp
 //    10  clear
 //    11  history
+//    12  ./run-tests.sh 
+//    13  g++ main.cpp 
+//    14  ./a.out
 
 
 // ------------- FILE HEADER -------------

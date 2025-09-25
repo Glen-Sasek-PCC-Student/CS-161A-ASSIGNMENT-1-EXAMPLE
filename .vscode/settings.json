@@ -2,5 +2,8 @@
   "editor.stickyScroll.enabled": false,
   "C_Cpp.formatting": "disabled",
   "git.postCommitCommand": "sync",
-  "git.autorefresh": true
+  "git.autorefresh": true,
+  "files.associations": {
+    "ostream": "cpp"
+  }
 }
